@@ -8,6 +8,9 @@ I'm a Frontend Developer based in Nashville. I'm eagerly serching for my first r
 🌱 I’m currently learning React Native, Redux, NodeJS, ExpressJS, and MongoDB
 ⚡ Fun fact: I love math and science jokes 😆
 
+![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslazyk10&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslazyk10)](https://github.com/eslazyk10/github-readme-stats)
 
 
