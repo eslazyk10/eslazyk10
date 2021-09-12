@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Emily Slazyk**
 #### a Front End Engineer in Nashville, TN
-![a Front End Engineer in Nashville, TN](https://github-readme-stats.vercel.app/api?username=eslazyk10&show_icons=true&theme=radical)
+![a Front End Engineer in Nashville, TN](https://github-readme-stats.vercel.app/api?username=eslazyk10&show_icons=true&theme=dracula)
 
 I'm eagerly searching for my first role in the tech world! I have previously help a 7 year career in healthcare and have been studying development and software engineering. I would love to collaborate on a project!
 
